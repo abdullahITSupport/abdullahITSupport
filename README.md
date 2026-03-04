@@ -5,7 +5,7 @@
 ---
 
 ### About Me
-I am a Computer Science diploma graduate with a strong focus on IT Support.I specialize in identifying technical issues, analyzing root causes, and providing efficient solutions to minimize system downtime.
+I am a Computer Science diploma graduate with a strong focus on IT Support. I specialize in identifying technical issues, analyzing root causes, and providing efficient solutions to minimize system downtime.
 
 ### Technical Skills
 * **Systems:** Windows 10/11, Windows Server, Linux (Basic)
